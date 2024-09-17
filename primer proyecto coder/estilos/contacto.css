@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+}
+body{
+    background-color: #c8cbc1;
+}
+
+.navegacion{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    font-weight: bold;
+    height: 100px;
+}
+
+.logo{
+    color: #000000;
+    font-size: 45px;
+}
+
+.click{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.contenedor1{
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor2{
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.fa-solid{
+    font-size: 40px;
+}
