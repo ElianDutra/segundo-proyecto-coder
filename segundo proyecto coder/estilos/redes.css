@@ -8,30 +8,6 @@ body{
     background-color: #c8cbc1;
 }
 
-.navegacion{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 10px;
-    font-weight: bold;
-    height: 100px;
-}
-
-.logo{
-    color: #000000;
-    font-size: 45px;
-}
-
-.click{
-    display: inline-block;
-    padding: 0px 20px;
-}
-
-a{
-    color: #000000;
-    text-decoration: none;
-}
-
 .fondo{
     text-align: justify;
     font-size: 16px;
