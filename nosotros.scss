@@ -32,13 +32,6 @@ body{
 .h1:hover{
     color: #ffffff;
 }
-
-.parrafo1{
-    text-align: justify;
-    align-items: center;
-    font-size:  14px;
-}
-
 .redes{
     display: flex;
     flex-direction: column;
@@ -48,4 +41,10 @@ body{
 }
 footer{
     background-color: #586875;
+}
+
+@media (max-height: 500px){
+    footer{
+        margin-top: 100px;
+    }
 }

@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Georgia;
+}
+
+body {
+  background-color: #c8cbc1;
+}
+
+.imagen-car img {
+  height: 500px;
+  object-fit: cover;
+}
+
+.main {
+  position: relative;
+  margin: 15px;
+}
+
+.main__section--div {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.div__btn {
+  width: 90px;
+  background-color: #586875;
+  text-decoration: none;
+}
+
+.redes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+footer {
+  background-color: #586875;
+}
+
+/*# sourceMappingURL=index.css.map */
