@@ -7,6 +7,10 @@
 body{
     background-color: #c8cbc1;
 }
+.img{
+    height: 450px;
+    width: 100%;
+}
 .contenedor1{
     display: flex;
     flex-direction: column;
@@ -21,4 +25,18 @@ body{
 
 .fa-solid{
     font-size: 40px;
+    padding: 8px;
 }
+.parrafo{
+    padding: 8px;
+}
+.redes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+  }
+  footer {
+    background-color: #586875;
+  }

@@ -9,31 +9,25 @@ body {
   background-color: #c8cbc1;
 }
 
-.contenedor1 {
-  height: 700px;
-  width: 100%;
-}
-
-.contenedor2 {
-  margin-top: 30px;
-  height: 100px;
-}
-
-.imagen1 {
+.section__img {
   height: 400px;
   width: 100%;
   margin: 0px;
 }
 
-.h1 {
-  align-items: center;
+.section__h1 {
   text-align: center;
-  font-size: 55px;
-  padding: 0px;
+  font-size: 56px;
 }
 
-.h1:hover {
-  color: #ffffff;
+.section__div {
+  display: flex;
+}
+
+.section__div--p {
+  font-size: 14px;
+  text-align: justify;
+  padding: 8px;
 }
 
 .redes {
