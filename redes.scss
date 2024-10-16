@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Georgia;
 }
+
 body{
     background-color: #c8cbc1;
 }
@@ -15,10 +16,12 @@ body{
     height: 500px;
     flex-flow: column;
 }
+
 .section__img{
     height: 400px;
     width: 100%;
 }
+
 .contenedor1{
     display: flex;
     flex-flow: row;
@@ -31,6 +34,7 @@ body{
     align-items: center;
 
 }
+
 .parrafo1{
     text-align: justify;
     align-items: center;
@@ -53,6 +57,10 @@ footer{
 .ig{
     font-size: 24px;
 }
+
 .tw{
     font-size: 24px;
 }
+
+
+
